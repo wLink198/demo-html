@@ -1,0 +1,28 @@
+body {
+ margin-left: 120px;
+ margin-right: 80px;
+}
+
+h1 {
+ margin-left: 500px;
+}
+span.name-text {
+ font-weight: bold;
+}
+span.em-text {
+ color: red;
+ font-style: italic;
+}
+span.highlights {
+ color: green;
+ font-style: italic;
+ text-decoration: underline;
+}
+span.notice-text {
+ color: red;
+ font-weight: bold;
+}
+
+
+
+
